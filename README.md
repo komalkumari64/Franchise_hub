@@ -31,11 +31,8 @@ A modern and responsive landing page for a franchise business built using HTML, 
 
 ## 🌐 Live Demo
 
-👉 [Add your Netlify link here]
+👉 [(https://komalkumari64.github.io/Franchise_hub/)]
 
-## 📸 Preview
-
-(Add screenshot here if you want)
 
 ## 🙋‍♀️ Author
 
